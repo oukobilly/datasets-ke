@@ -1,0 +1,127 @@
+﻿Rt. No.,Source,Destination,Zone,Outbound,Inbound,Route Description
+1,Karen,Dagoretti,Outer South,5.7,5.5,Karen Centre to Dagoretti Market via the Hub and AIU
+2/2B,Town,Dagoretti Mkt,Ngong Rd,17.3,17.6,Railways to Dagoretti Market via Dagoretti Junction and Kikuyu Road
+2C,Town,Waithaka,Ngong Rd,14.1,14.4,CBD to Waithaka Centre via Dagoretti Junction and Muthama (possible extension to Mutuini)
+3,Dagoretti Junction,Uthiru,Outer West,5.9,5.9,Dagoretti Junction to Uthiru via Naivasha Road
+4,Town,Madiwa,Juja Rd,4.8,5.7,Luthuli Avenue to Madiwa via Pumwani Hospital and Eastleigh Section III
+4C,Town,Kabiria,Ngong Rd,12.9,12.3,"Ambassadeur to Kabiria via Ngong Road, Dagoretti Junction, Riruta and Kinyanjui Road"
+4W,Town,Kabiria,Ngong Rd,13,12.7,"Ambassadeur to Kabiria via Ngong Road, Dagoretti Junction, Wanyee Road, Riruta and Kinyanjui Road"
+5,Town,Jamhuri,Ngong Rd,8.4,8.2,"Kencom to Jamhuri via Valley Road, Nairobi Hospital, Prestige Plaza and Woodley"
+6E,Eastleigh,Pipeline,Jogoo-Outering,7.2,7.4,"Eastleigh to Pipeline via Rikana, Likoni Road, Lunga Lunga and Donholm"
+7,Town,Gikomba,Jogoo-Outering,2.2,2.9,"Luthuli Avenue to Gikomba via California, Majengo and Pumwani"
+7B,Town,Upper Hill,Ngong Rd,5.2,3.9,"Kencom to KNH via Bunyala Road, Old NTSA, KASNEB and Upper Hill"
+7C,Town,Upper Hill,Ngong Rd,6.4,3.9,"Kencom to KNH via Community, TSC, KASNEB and Upper Hill"
+8,Town,Kibera,Ngong Rd,7.9,7.5,"Railways to Olympic via Ngong Road upto Uchumi, Kibera Law Courts and Makina"
+8B,Muthurwa,Kariobangi,Jogoo-Outering,7.6,8.6,"Muthurwa Market to Kariobangi Roundabout via Makadara Law Courts, Kimathi, Mesora and Outering"
+9/6,Town,Eastleigh,Juja Rd,4.1,4.9,"CBD to Eastleigh via Kariokor, Pumwani Maternity, KBS and Garissa"
+9/12,Eastleigh,South C,Outer East,9.9,10.2,"Eastleigh to South C Shopping Centre via Likoni Road, Ole Sereni and Bellevue"
+10,Town,Maringo,Jogoo-Outering,5.7,5.9,"Archives to Maringo via Landhies Road, City Stadium and Mbotela"
+11,Town,Highridge,Limuru Rd,4.8,5.3,"Khoja to Highridge via Ngara, Limuru Road, Aga Khan Hospital and 3rd Parklands Avenue"
+11B,Town,Hazina,Mombasa Rd,7.2,7.3,"Bus Station to Hazina via Bunyala Road, Mater Hospital, South B, Railways Training Centre and Diamond Park Ph 1"
+11C,Town,Pangani,Juja Rd,5.3,3.7,"Odeon to Pangani via KICD, Guru Nanak and Pangani Girls"
+11D,Town,Stima Plaza,Limuru Rd,2,2.4,Odeon to Stima Plaza via Ngara
+11F,Town,General Mathenge,Waiyaki Way,5.5,5.3,"Odeon to General Mathenge Avenue via Ojijo Road, MP Shah and Sarit Centre"
+12C,Town,South C,Mombasa Rd,8.8,4.3,"Bus Station to South C via Mombasa Road, Bellevue, Boma Hotel, Akiba and Akiba"
+12D,Town,KPA,Mombasa Rd,8,7.5,"Bus Station to Highway Estate via Nextgen, Bellevue and KPA"
+14,Town,Nairobi West,Langata Rd,5,4.9,"Bus Station to Moi Education Centre via Nyayo Stadium, Nairobi West, Old Uchumi and Civil Servants"
+14A,Town,Madaraka,Langata Rd,5.1,4.3,"Bus Station to Texas Cancer Centre via Nyayo Stadium, Madaraka, Strathmore and Ufunguo Estate"
+14/28,Town,Kariobangi,Juja Rd,10.4,11.5,"OTC to Kariobangi North via Juja Road, Huruma, Kiamaiko and Riverside (Alternate route via Thika Road and Allsopps)"
+15,Town,Otiende,Langata Rd,12.2,12.7,"Bus Station to St Mary's Hospital via Langata Road, Ngei, Southlands, Uhuru Gardens, Onyonka and Otiende"
+15/34,Langata,KNH,Outer South,11.3,10.1,KNH to St Mary's Hospital via Mbagathi Way and Langata
+16,Town,Highrise,Langata Rd,6.8,6.7,"Bus Station to Soweto via Nyayo Stadium, Mbagathi Way, Riara University and Nyayo Highrise"
+17A,Eastleigh,Kayole,Outer East,11.2,11.3,"Eastleigh to Kayole via Kariobangi Roundabout, Kangundo Road and Komarock"
+17B,Town,Mwiki,Thika Rd,16.8,16.8,"CBD to Mwiki via Thika Road, Roysambu, TRM and Kasarani"
+18C,Eastleigh,Komarock,Juja Rd,11.2,11.1,"Eastleigh to Komarock via Kariobangi Roundabout, Dandora Junction and Saika"
+18/62,Eastleigh,Kamulu,Juja Rd,26,26,"Eastleigh to Kamulu via Kariobangi Roundabout, Komarock Road, Kangundo Road and Ruai"
+19C,Town,Komarock,Jogoo-Outering,14.4,13.9,"Ambassadeur to Komarock via Jogoo Road, Manyanja Road and Bee Centre"
+19C/34B,Town,Komarock,Jogoo-Outering,14.5,15.5,"Ambassadeur to Komarock via Jogoo Road, Donholm, Savannah, Greenspan Mall, Jacaranda and Bee Centre"
+19/60,Town,Kayole,Jogoo-Outering,12.9,13.8,"OTC to Kayole DC via Jogoo Road, Manyanja Road, Spine Road, Masimba, Kayole Central and Kona Mbaya"
+20,Roysambu,Mama Lucy,Outer East,14.7,14.8,"Roysambu to Mama Lucy Hospital via Kasarani, Mwiki, Njiru, Kayole and Bee Centre"
+22,Town,Uthiru,Waiyaki Way,15,15.8,"Odeon to Ndumbu-ini via Waiyaki Way, Uthiru and UoN Upper Kabete"
+23,Town,Civil Servants,Jogoo-Outering,10.2,10.2,"Afya Centre to Civil Servants via Muthurwa, Bahati, Kimathi, Uhuru, Buru Buru Ph.1, Outering and Kariobangi South"
+23/30,Town,Kangemi,Waiyaki Way,10.4,11,"Odeon to Kangemi via Westlands, Safaricom, ABC and Waruku"
+23B,Town,Dagoretti Mkt,Waiyaki Way,21.9,22.2,"Odeon to Dagoretti Market via Waiyaki Way, Kangemi, 87 and Muhuri Road"
+24,Town,Karen,Ngong Rd,23.3,24.2,"Kencom to Hardy Centre via Ngong Road, Lenana, Karen Centre, Blixen Museum, Ololua Forest and Cooperative University"
+24C,Bomas,Karen,Langata Rd,7.3,7.9,"Bomas to Karen Centre via Langata Road, Karen Hospital, Hillcrest, Karen C and the Waterfront"
+24L,Town,Karen,Langata Rd,18.4,18.1,"Ambassadeur to Hardy Centre via Langata Road, Galleria, KSL, Tangaza College, JKUAT Karen and Giraffe Centre"
+25,Town,Lucky Summer,Thika Rd,12.7,12.3,"Odeon to Lucky Summer via Thika Road, Allsopps, Chandaria Industries and Baba Dogo"
+25B,Donholm,Lucky Summer,Outer East,8.8,9.6,"Donholm to Lucky Summer via Outering Road, Allsopps, Chandaria Industries and Baba Dogo"
+26,Makadara,Kariobangi,Jogoo-Outering,5.9,6.1,"Makadara to Kariobangi Roundabout via Kimathi, Uhuru, Mesora and Outering"
+28,Eastleigh,Kariobangi,Juja Rd,6.2,7.3,"Eastleigh to Kariobangi North via Juja Road, Huruma, Kiamaiko and Riverside"
+29/30,Town,Mathare North,Thika Rd,9.8,7.4,"Odeon to Mathare North via Thika Road, Survey, Allsopps, KSMS and Naivas"
+31,Gikomba,Ngara,,2.8,2.6,Gikomba to Ngara via Kariokor
+32,Town,Ayany,Ngong Rd,9.0,8.4,"Kencom to Ayany via Community, Ngong Road, Uchumi, Kibera and Olympic"
+32/42,Town,Dandora,Juja Rd,15.1,11.2,"OTC to Dandora Market via Thika Road, Allsopps and Kariobangi Roundabout (Alternative route via Juja Road and Kariobangi Roundabout)"
+33,Town,Ngummo,Ngong Rd,5.4,6.1,"Bus Station to Ngummo via KNH, Mbagathi Way and Mbagathi Hospital"
+33A,Town,Baraka Estate,Mombasa Rd,19.4,21.9,"Odeon to Baraka Estate via Mombasa Road, EASA, Kabansora, Embakasi Village, Nyayo Gate A and Nyayo Gate D"
+33B,Town,Fedha,Jogoo-Outering,11.6,19.2,"Odeon to Nyayo Gate B via Jogoo Road, Outering Road and Fedha Estate"
+33U,Town,Utawala,Mombasa Rd,25.2,26.2,"Ambassadeur to Githunguri via Mombasa Road, Eastern Bypass, 75 Barracks, APTC, Shooters, Astrol and Utawala"
+34,Town,Pipeline,Jogoo-Outering,10.9,17.2,"Ambassadeur to Pipeline via Mombasa Road, Cabanas, Kobil and Taj Mall (Alternative route via Jogoo Road, Donholm, Outering Road and Tassia)"
+34A,Town,JKIA,Mombasa Rd,21.0,18.6,"Ambassadeur to Terminal 2 via Jogoo Road, Donholm, Outering Road, Taj Mall, Cabanas, JKIA Entry, Barabara Plaza, KCAA, Cargo Terminal and Terminals 1a to 1b"
+34B,Town,Jacaranda,Jogoo-Outering,11.7,11.8,"Ambassadeur to Bee Centre via Jogoo Road, Donholm, Savannah, Jacaranda and Greenspan Mall"
+34C,Town,Greenfields,Jogoo-Outering,10.0,10.3,"Odeon to Greenfields Shopping Centre via Jogoo Road, Donholm and Savannah"
+35/60,Town,Umoja,Jogoo-Outering,11.4,10.7,Afya Centre to Umoja via Jogoo Road (Circular Route)
+36,Muthurwa,Dandora,Outer East,12.9,13.5,"City Stadium to Dandora Market via Jogoo Road, Buruburu 1 to 5, Outering, Kariobangi South and Civil Servants"
+37,Town,Saika,Jogoo-Outering,16.0,15.9,Bus Station to Obama Estate via Kangundo Road and Saika Estate
+38,Town,Ruai,Jogoo-Outering,23.7,23.5,"Bus Station to Ruai via Kangundo Road, Njiru and Chokaa"
+39,Town,Malaa,Jogoo-Outering,44.7,44.6,"Bus Station to Kantafu via Kangundo Road, Ruai, Kamulu, Joska and Malaa"
+40,Town,Ngummo,Ngong Rd,5.9,5.8,"Kencom to Ngummo via Community, Upper Hill, KNH and Mbagathi Way"
+43,Town,Ngumba,Thika Rd,10.3,10.1,"Khoja to Ngumba Estate via Thika Road, Roasters, Garden City and EABL"
+44,Town,Kahawa West,Thika Rd,17.7,18.2,"CBD to Kahawa West via Thika Road, Roysambu, TRM, Zimmerman, Githurai 44, Kiamumbi and Kamiti Corner"
+44B,Town,Kahawa West,Thika Rd,18.9,18.3,"CBD to Kahawa West via Kiambu Road, Ridgeways, Northern Bypass, Marurui, Njathaini and Maziwa"
+45,Town,Githurai,Thika Rd,14.4,14.6,"CBD to Githurai 45 via Thika Road, Roysambu and Car Wash"
+45KU,Town,KU,Thika Rd,21.4,20.9,"CBD to Ruiru Bypass via Thika Road, Kahawa Wendani, KU, Unicity Mall and Northlands"
+46,Town,Kawangware,Ngong Rd,11.3,10.7,"CBD to Kawangware via Valley Road, Nairobi Hospital, Hurlingham, Yaya Centre, Kilimani, Valley Arcade and Congo Estate"
+46H,Town,Huruma,Juja Rd,8.4,8.0,Odeon to Jonsaga Flats via Juja Road and Huruma
+47A,Town,Kahawa Sukari,Thika Rd,17.4,16.9,"Odeon to Shell Kahawa Sukari via Thika Road, Kahawa Barracks and Kahawa Wendani"
+47B,Town,Mwihoko,Thika Rd,21.3,21.0,"Odeon to Mwihoko via Thika Road, Kahawa Sukari Avenue, Felma and Kiu Kenda"
+48,Town,Kileleshwa,Waiyaki Way,8.0,8.7,"Odeon to Othaya Road via Chiromo, Kileleshwa Police, Kenya High and Gatundu Road"
+48A,Town,Lavington,Waiyaki Way,8.8,9.0,"Odeon to Lavington Green via Chiromo, Prime Bank, Riverside and James Gichuru Avenue"
+49,Town,Warren,Thika Rd,14.4,14.2,"Odeon to Clay City via Thika Road, Roysambu, Kasarani, Seasons Road and PCEA"
+53,Town,Marurui,Thika Rd,12.5,12.4,"Odeon to Marurui via Thika Road, Roasters and Thome"
+56,Town,Macharia Rd,Ngong Rd,10.4,10.9,"Railways to Gatina via Hurlingham, Kilimani, Congo Estate and Kawangware"
+58,Town,Buruburu,Jogoo-Outering,9.4,9.3,Odeon to Mesora Centre via Jogoo Road and Buruburu 5 to 2
+69/73,Town,Kwa Njenga,Mombasa Rd,12.8,16.3,"Bus Station to Mukuru kwa Njenga via Enterprise Road, Industrial Area, GM, Imara Daima and Mastermind"
+70/71,Muthurwa,Donholm,Jogoo-Outering,7.2,7.1,"City Stadium to Sinai via Rikana, Likoni Road and Lunga Lunga Road"
+100,Town,Kiambu,Thika Rd,16.1,16.1,"Odeon to Kiambu Town via Kiambu Road, DCI, Karura Forest, Ridgeways, Fourways, Thindigua, KIST and Edenville"
+100A,Town,Kirigiti,Thika Rd,14.9,15.0,"Odeon to Kirigiti via Kiambu Road, Ridgeways, Fourways, Thindigua and KIST"
+100/237,Kiambu,Thika,Outer North,37.7,38.6,"Kiambu Town to Thika via Tatu City, Ruiru and Juja"
+101,Kiambu,Limuru,Outer North,28.3,28.2,Kiambu Town to Limuru via Riara Ridge and Ndumberi
+102,Town,Kikuyu,Ngong Rd,22.9,23.7,"Railways to Kikuyu via Ngong Road, Naivasha Road, Dagoretti, Thogoto, Kikuyu Hospital and Alliance"
+103,Dagoretti Junction,Wangige,Outer West,20.3,20.4,"Junction Mall to Wangige via Naivasha Road, Uthiru and Gitaru"
+104,Town,Nazareth Hospital,Limuru Rd,23.8,24.3,"Khoja to Nazareth Hospital via Limuru Road, Banana, Raini, Kawaida and Nduota"
+105,Town,Kikuyu,Waiyaki Way,22.3,22.0,"Odeon to Kikuyu via Waiyaki Way, Uthiru, Cooperation, 87, Kinoo, Regen, Muthiga and Gitaru"
+106,Town,Banana,Limuru Rd,17.2,17.9,"Khoja to Banana via Limuru Road, Village Market, Rosslyn, Ruaka and Muchatha"
+107,Town,Ndenderu,Limuru Rd,18.5,22.5,"Khoja to Karura via Limuru Road, Village Market, Rosslyn, Ruaka, Joyland and Ndenderu Roundabout"
+107D,Town,Ndenderu,Thika Rd,21.3,24.6,"Khoja to Karura via Kiambu Road, Northern Bypass, Githogoro, Runda, Two Rivers, Joyland and Ndenderu Roundabout"
+108,Town,Gachie,Limuru Rd,18.3,20.6,"Odeon to Kihara via Limuru Road, Karura Forest, UNEP, Gigiri, Hospital Hill, CUE, Redhill Road and Gachie"
+110,Town,Kitengela,Mombasa Rd,31.7,31.6,"Railways to Kitengela via Mombasa Road, Syokimau, Mlolongo and EPZ"
+110A,Town,Athi River,Mombasa Rd,29.7,30.1,"Railways to Athi River via Mombasa Road, Syokimau, Mlolongo, Devki, KMC and East Africa Portland"
+111,Town,Ngong,Ngong Rd,22.4,23.1,"Railways to Ngong via Ngong Road, Lenana, Karen Centre, Kerarapon, Bulbul and Ngong Vet"
+111/126,Ngong,Kiserian,Outer South,10.0,10.0,Ngong Town to Kiserian via Bondeni and Matasia
+112,Town,Gikambura,Waiyaki Way,38.1,38.6,"Odeon to Lusingeti via Waiyaki Way, Kikuyu, Thogoto and Gikambura"
+113,Town,Kwa Magu,Waiyaki Way,19.0,21.8,Khoja to Muthure via Lower Kabete Road and Western Bypass
+114,Town,Limuru,Limuru Rd,33.8,34.4,"Khoja to Limuru via Limuru Road, Ruaka, Ndenderu and Kabuku - St Paul's"
+115,Town,Limuru,Waiyaki Way,38.2,36.3,"Khoja to Limuru via Waiyaki Way, Gitaru, Zambezi, Muguga, Eka 5, Rironi and Kwambira"
+116,Town,Limuru,Limuru Rd,34.3,34.8,"Khoja to Limuru via Limuru Road, Ruaka, Banana and Tigoni"
+117,Town,Katani,Mombasa Rd,21.0,22.3,"Bus Station to Katani Road via Mombasa Road, Cabanas, Gateway Mall, Nation and Syokimau"
+118,Town,Wangige,Waiyaki Way,17.4,16.9,"Khoja to Wangige via Sarit, Spring Valley, Lower Kabete Road, UoN Lower Kabete, Lower Kabete and Kingeero"
+119,Town,Wangige,Waiyaki Way,17.2,16.2,"Khoja to Wangige via Sarit, Peponi Road, Thigiri Ridge, Kitisuru, Mwimuto and Kibichiku"
+119A,Town,Gathiga,Waiyaki Way,14.3,13.3,"Khoja to Gathiga via Sarit, Peponi Road, APHRC and Kirawa"
+120,Town,Githunguri,Thika Rd,35.0,34.6,"Bus Station to Githunguri via Kiambu Road, Kiambu Town and Ndumberi"
+122,Town,Githiga,Thika Rd,31.0,30.7,"Bus Station to Githiga via Kiambu Road, Kiambu Town and Kamondo"
+125,Town,Ongata Rongai,Langata Rd,18.5,18.8,"Railways to Tuskys via Langata Road, KWS, Galleria, Magadi Road, CUEA, MMU, Masai Lodge and Gataka Road"
+126,Town,Kiserian,Langata Rd,27.8,28.0,"Railways to Kiserian via Langata Road, Magadi Road, Exciting, Laiser Hill, Rimpa and Nkoroi"
+129,Kikuyu,Ndenderu,Outer West,12.3,12.6,
+130,Kikuyu,Limuru,Outer West,18.4,18.0,
+131,Town,Nderi,Waiyaki Way,28.3,27.3,
+134,Town,Namanga,Mombasa Rd,164,163,
+144,Town,Ruiru,Thika Rd,30.2,30.4,
+145,Town,Ruiru,Thika Rd,23.5,23.9,
+146,Town,Gatundu,Thika Rd,49.6,49.4,
+148,Town,Kiganjo,Thika Rd,48.1,47.6,
+160,Town,Kibichoi,Thika Rd,37.6,37.2,
+201/202,Town,Kangundo,Juja Rd,67.9,66.7,
+236,Town,Juja,Thika Rd,32.2,32.1,
+237,Town,Thika,Thika Rd,44.1,43.4,
+238,Town,Makongeni,Thika Rd,49.1,48.3,
