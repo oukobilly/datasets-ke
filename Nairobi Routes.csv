@@ -49,7 +49,7 @@ Rt. No.,Source,Destination,Zone,Outbound,Inbound,Route Description
 26,Makadara,Kariobangi,Jogoo-Outering,5.9,6.1,"Makadara to Kariobangi Roundabout via Kimathi, Uhuru, Mesora and Outering"
 28,Eastleigh,Kariobangi,Juja Rd,6.2,7.3,"Eastleigh to Kariobangi North via Juja Road, Huruma, Kiamaiko and Riverside"
 29/30,Town,Mathare North,Thika Rd,9.8,7.4,"Odeon to Mathare North via Thika Road, Survey, Allsopps, KSMS and Naivas"
-31,Gikomba,Ngara,,2.8,2.6,Gikomba to Ngara via Kariokor
+31,Gikomba,Ngara,Juja Rd,2.8,2.6,Gikomba to Ngara via Kariokor
 32,Town,Ayany,Ngong Rd,9.0,8.4,"Kencom to Ayany via Community, Ngong Road, Uchumi, Kibera and Olympic"
 32/42,Town,Dandora,Juja Rd,15.1,11.2,"OTC to Dandora Market via Thika Road, Allsopps and Kariobangi Roundabout (Alternative route via Juja Road and Kariobangi Roundabout)"
 33,Town,Ngummo,Ngong Rd,5.4,6.1,"Bus Station to Ngummo via KNH, Mbagathi Way and Mbagathi Hospital"
