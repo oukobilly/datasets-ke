@@ -1,4 +1,4 @@
-﻿Rt. No.,Source,Destination,Zone,Outbound,Inbound,Route Description
+Rt. No.,Source,Destination,Zone,Outbound,Inbound,Route Description
 1,Karen,Dagoretti,Outer South,5.7,5.5,Karen Centre to Dagoretti Market via the Hub and AIU
 2/2B,Town,Dagoretti Mkt,Ngong Rd,17.3,17.6,Railways to Dagoretti Market via Dagoretti Junction and Kikuyu Road
 2C,Town,Waithaka,Ngong Rd,14.1,14.4,CBD to Waithaka Centre via Dagoretti Junction and Muthama (possible extension to Mutuini)
@@ -112,16 +112,17 @@
 122,Town,Githiga,Thika Rd,31.0,30.7,"Bus Station to Githiga via Kiambu Road, Kiambu Town and Kamondo"
 125,Town,Ongata Rongai,Langata Rd,18.5,18.8,"Railways to Tuskys via Langata Road, KWS, Galleria, Magadi Road, CUEA, MMU, Masai Lodge and Gataka Road"
 126,Town,Kiserian,Langata Rd,27.8,28.0,"Railways to Kiserian via Langata Road, Magadi Road, Exciting, Laiser Hill, Rimpa and Nkoroi"
-129,Kikuyu,Ndenderu,Outer West,12.3,12.6,
-130,Kikuyu,Limuru,Outer West,18.4,18.0,
-131,Town,Nderi,Waiyaki Way,28.3,27.3,
-134,Town,Namanga,Mombasa Rd,164,163,
-144,Town,Ruiru,Thika Rd,30.2,30.4,
-145,Town,Ruiru,Thika Rd,23.5,23.9,
-146,Town,Gatundu,Thika Rd,49.6,49.4,
-148,Town,Kiganjo,Thika Rd,48.1,47.6,
-160,Town,Kibichoi,Thika Rd,37.6,37.2,
-201/202,Town,Kangundo,Juja Rd,67.9,66.7,
-236,Town,Juja,Thika Rd,32.2,32.1,
-237,Town,Thika,Thika Rd,44.1,43.4,
-238,Town,Makongeni,Thika Rd,49.1,48.3,
+129,Kikuyu,Ndenderu,Outer West,12.3,12.6,Kikuyu to Ndenderu via Gitaru and Wangige
+130,Kikuyu,Limuru,Outer West,18.4,18.0,"Kikuyu to Limuru via Muguga, Zambezi, 5 Acres and Rironi"
+131,Town,Nderi,Waiyaki Way,28.3,27.3,Khoja to KARI via Waiyaki Way and Zambezi
+134,Town,Namanga,Mombasa Rd,164,163,OTC to Namanga border via Isinya and Kajiado Town
+144,Town,Ruiru,Thika Rd,30.2,30.4,"Odeon to Ruiru Town via Thika Road, Northern Bypass, Membley, OJ, BTL and Ruiru Prisons"
+145,Town,Ruiru,Thika Rd,23.5,23.9,"Town to Ruiru Town via Thika Road, KU, Bypass and Kihunguro"
+146,Town,Gatundu,Thika Rd,49.6,49.4,Bus Station to Gatundu via Thika Road and Kenyatta Road
+148,Town,Kiganjo,Thika Rd,48.1,47.6,"Bus Station to Kiganjo via Thika Road, Ruiru Kimbo and Mukuyuni"
+160,Town,Kibichoi,Thika Rd,37.6,37.2,"Bus Station to Kibichoi via Kiambu Road, Kiambu Town and St. Anne's Lioki"
+201/202,Town,Kangundo,Juja Rd,67.9,66.7,"Bus Station to Kangundo via Kangundo Road, Mutalia, Nguluni and Tala"
+230,Town,Juja Farm,Thika Rd,42.3,42.2,Ambassadeur to Juja Farm via Thika Road and Juja Town
+236,Town,Juja,Thika Rd,32.2,32.1,"Town to JKUAT via Thika Road, Ruiru, Toll, Kenyatta Road and Juja Town"
+237,Town,Thika,Thika Rd,44.1,43.4,"Town to Thika Town via Thika Road, Ruiru, Juja, Witeithie and Jomoko"
+238,Town,Makongeni,Thika Rd,49.1,48.3,"Town to Makongeni via Thika Road, Garissa Road, Thika Town, Bidco and Gretsa University"
